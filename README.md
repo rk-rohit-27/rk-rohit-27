@@ -6,13 +6,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Exploring+AI+Engineering;Python+%7C+FastAPI+%7C+RAG;LangGraph+%7C+LLM+Applications;Building+Practical+Software+Systems" alt="Typing SVG"/>
 </a>
 
-<br/>
 
 <img src="https://img.shields.io/badge/Bachelor%20of%20Computer%20Science-4c1d95?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/GGM%20Science%20College%20Jammu-312e81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jammu%2C%20India-4338ca?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<br/><br/>
 
 <a href="https://portfolio.gizmodotech.com/">
 <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white"/>
