@@ -1,11 +1,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=ROHIT%20KUMAR&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Engineering%20%7C%20Full-Stack%20Development&descAlignY=58&descSize=17" width="100%"/>
-
+<br>
 <a href="https://readme-typing-svg.demolab.com/">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Exploring+AI+Engineering;Python+%7C+FastAPI+%7C+RAG;LangGraph+%7C+LLM+Applications;Building+Practical+Software+Systems" alt="Typing SVG"/>
 </a>
-
+<br>
 
 <img src="https://img.shields.io/badge/Bachelor%20of%20Computer%20Science-4c1d95?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/GGM%20Science%20College%20Jammu-312e81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
