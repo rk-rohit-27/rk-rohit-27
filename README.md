@@ -29,9 +29,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rk-rohit-27&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/rk-rohit-27?label=FOLLOWERS&style=for-the-badge&color=6366f1"/>
-<img src="https://img.shields.io/github/stars/rk-rohit-27?label=STARS&style=for-the-badge&color=4f46e5"/>
 
 </div>
 
